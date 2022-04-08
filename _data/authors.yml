@@ -1,18 +1,14 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
+  name        : "Eleni Partakki"
+  email       : "elenipartakki@gmail.com"
   bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : "epartakki"
+
 
 Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  name        : "Ananda Montoly"
+  email       : "anandamontoly@gmail.com"
+  bio         : "Smith College CSC/SDS '22, Software engineer at YouTube"
+  twitter     : "AnandaMontoly"
