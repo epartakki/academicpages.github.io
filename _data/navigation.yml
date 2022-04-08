@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Loans"
+    url: /loans/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Job Offers"
+    url: /job-offers/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Investing"
+    url: /investing/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Living Costs"
+    url: /living-costs/
     
-  - title: "CV"
-    url: /cv/
+  - title: "International Student Exceptions"
+    url: /international-student-exceptions/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Budgeting"
+    url: /budgeting/
+
+  - title: "Other"
+    url: /other/
